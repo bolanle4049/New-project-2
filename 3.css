@@ -1,5 +1,6 @@
 body{
     background-color: black;
+
 }
 main{
     background-color: rgb(255, 254, 254);
@@ -8,7 +9,7 @@ main{
     padding: 25px;
     margin: auto;
     border-radius: 40px;
-    height: 900px;
+    
 }
 img{
     object-fit: cover;
